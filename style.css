@@ -51,11 +51,11 @@ header nav ul li:last-child a{
         font-size: 48px;
     }
 
-    header nav{
-        margin-top: 8px;
-    }
-
     header nav ul li a{
         font-size: 16px;
+    }
+
+    header nav ul li a:hover{
+        color: #bdbdbd;
     }
 }
